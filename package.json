@@ -1,7 +1,7 @@
 {
-  "name": "@mytestgroupdeqode1/node-hello-000",
+  "name": "@mytestgroupdeqode1/node-microservice-101",
   "version": "1.0.1",
-  "description": "hello jenkins test app",
+  "description": "hello jenkins test microservice",
   "main": "index.js",
   "dependencies": {
     "express": "4.16.4"

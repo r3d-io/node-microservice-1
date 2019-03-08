@@ -1,4 +1,4 @@
-# Node Hello World
+# Node Hello Service
 
 Simple node.js app that act as microservice
 
