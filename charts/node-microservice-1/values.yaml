@@ -3,8 +3,8 @@
 # Declare variables to be passed into your templates.
 replicaCount: 1
 image:
-  repository: draft
-  tag: dev
+  repository: 10.7.240.104:5000/r3d-io/node-microservice-1
+  tag: 0.0.5
   pullPolicy: IfNotPresent
 service:
   name: node-microservice-1
